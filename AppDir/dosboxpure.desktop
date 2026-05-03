@@ -6,4 +6,4 @@ Icon=logo
 Terminal=false
 Type=Application
 Categories=Game;Emulator
-StartupWMClass=
+StartupWMClass=DOSBoxPure

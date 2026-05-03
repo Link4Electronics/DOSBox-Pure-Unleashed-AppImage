@@ -11,7 +11,7 @@ export ICON=https://raw.githubusercontent.com/schellingb/dosbox-pure-unleashed/r
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun ./AppDir/bin/DOSBoxPure_x86_64
+quick-sharun ./AppDir/bin/DOSBoxPure
 
 # Additional changes can be done in between here
 

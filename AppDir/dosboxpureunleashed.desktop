@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=DOSBox Pure Unleashed
 Comment=DOSBox reimagined with a friendly interface ZIP loading and save states
-Exec=DOSBoxPure_x86_64
+Exec=DOSBoxPure
 Icon=logo
 Terminal=false
 Type=Application

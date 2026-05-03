@@ -1,7 +1,6 @@
 [Desktop Entry]
 Name=DOSBox Pure Unleashed
-GenericName=DOS Emulator
-Comment=An enhanced x86/DOS emulator with sound/graphics
+Comment=DOSBox reimagined with a friendly interface ZIP loading and save states
 Exec=DOSBoxPure_x86_64
 Icon=logo
 Terminal=false

@@ -32,4 +32,4 @@ case "$ARCH" in # they use arm_64 for the binary
 	aarch64) narch=arm_64;;
 esac
 make linux-release ZL_VIDEO_OPENGL_CORE=1 -j$(nproc)
-mv -v Release-linux/DOSBoxPure_${narch} ./AppDir/bin/DOSBoxPure
+mv -v Release-linux/DOSBoxPure_${narch} ../AppDir/bin/DOSBoxPure
